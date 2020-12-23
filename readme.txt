@@ -1,0 +1,1 @@
+Pagina en blanco de ADMIN LTE para comenzar un proyecto nuevo.
